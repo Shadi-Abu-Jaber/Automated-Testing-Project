@@ -1,5 +1,4 @@
-# Automation-test-Project
-# The Final Project OF The QA Course.
+# Automation-Testing-Project
 
 ## Tested Demo Sites:
 please take a quick look at the websites
