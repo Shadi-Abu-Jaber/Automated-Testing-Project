@@ -74,17 +74,6 @@ available
 
   Expected Output: Check that the API handles empty input gracefully and returns an appropriate error response.
  
-- Rate Limiting:	
-
-  Execute a large number of requests in a short time to test the API's rate limiting mechanism. Verify that the API returns an error 
-  response when the rate limit is exceeded.
- 
-- Invalid Endpoint:	
-
-  Input: "/invalid"
-
-  Expected Output: Ensure that the API returns a proper error response for an invalid endpoint.
- 
 - Network Errors:	
 
   Simulate network errors by temporarily disconnecting from the internet during a request and ensure that the API gracefully handles 
