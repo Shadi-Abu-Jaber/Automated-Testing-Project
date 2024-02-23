@@ -1,4 +1,4 @@
-# Automation-Testing-Project
+# automated testing project
 
 ## Tested Demo Sites:
 please take a quick look at the websites
